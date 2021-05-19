@@ -1,5 +1,5 @@
 <div style="align:center;margin-bottom:30px">
-    <img src="img/logo.png" alt="logotipo">
+    <img src="logo.png" alt="logotipo">
     <h1>Shapely</h1>
     <p>Quisque felis turpis, volutpat eu dolor vel, fringilla consequat sapien.</p>
     <b><a href="https://www.google.com">Check our official page >></a></b>    
